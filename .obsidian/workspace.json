@@ -11,31 +11,18 @@
             "id": "40659aa3e3c6cd2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "demo/模板字符串替换.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e96fdf768056bdf",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
-                "file": "vue/源码/未命名.canvas",
+                "file": "vue/源码/reactivity.canvas",
                 "viewState": {
-                  "x": 320.20000059127824,
-                  "y": -7.9000131189822556,
-                  "zoom": 0
+                  "x": 1009.8259346595161,
+                  "y": -30,
+                  "zoom": -0.3388888676961263
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/源码/未命名.canvas",
+                "file": "vue/源码/reactivity.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/源码/未命名.canvas",
+                "file": "vue/源码/reactivity.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/源码/未命名.canvas"
+                "file": "vue/源码/reactivity.canvas"
               }
             }
           }
@@ -156,19 +143,24 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
-      "templates:插入模板": false
+      "templates:插入模板": false,
+      "graph:查看关系图谱": false
     }
   },
-  "active": "1e96fdf768056bdf",
+  "active": "40659aa3e3c6cd2e",
   "lastOpenFiles": [
-    "vue/神奇的nextTick一定能获取到最新的dom嘛？.md",
-    "vue/源码/未命名.canvas",
-    "vue/源码",
+    "vue/源码/未命名思维导图.md",
+    "vue/源码/reactivity.canvas",
+    "vue/源码/vue.canvas",
     "demo/模板字符串替换.md",
+    "vue/神奇的nextTick一定能获取到最新的dom嘛？.md",
+    "README.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "vue/源码",
     "demo/未命名.canvas",
     "porsche/检查商品不存在.md",
     "http/在浏览器地址栏输入网址按下回车会发生什么.md",
