@@ -4,9 +4,9 @@
 		{"type":"text","text":"@vue/compiler-dom","id":"d01464f5b20e7664","x":-114,"y":-223,"width":250,"height":60},
 		{"type":"text","text":"@vue/compiler-core","id":"536dbb85fb60348b","x":255,"y":-226,"width":250,"height":60},
 		{"type":"text","text":"@vue/running-dom","id":"bd0768ca8e2d2168","x":-134,"y":63,"width":250,"height":60},
-		{"type":"text","text":"@vue/running-core","id":"fa581711b90e7e86","x":243,"y":65,"width":250,"height":60},
 		{"type":"text","text":"@vue/compiler-sfc\n(打包，把vue文件打包成js文件，依赖下面的两个库)","id":"ffe3c60055dd85c1","x":20,"y":-500,"width":360,"height":140},
-		{"type":"text","text":"@vue/reactivity","id":"4b9bd90c54c539f8","x":600,"y":63,"width":250,"height":60}
+		{"id":"1b4b8dbeb9c1e711","x":305,"y":-107,"width":400,"height":400,"type":"file","file":"Vue/源码/runtime-core.canvas"},
+		{"type":"file","file":"Vue/源码/reactivity.canvas","id":"b5ba8949d37c0066","x":880,"y":-107,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"946b906ccb22366b","fromNode":"484599c427f7dc04","fromSide":"top","toNode":"d01464f5b20e7664","toSide":"bottom"},
@@ -14,7 +14,7 @@
 		{"id":"d803d926d304efc7","fromNode":"ffe3c60055dd85c1","fromSide":"bottom","toNode":"d01464f5b20e7664","toSide":"top"},
 		{"id":"cd5c3f515c347131","fromNode":"ffe3c60055dd85c1","fromSide":"bottom","toNode":"536dbb85fb60348b","toSide":"top"},
 		{"id":"11de2331716bbcc2","fromNode":"484599c427f7dc04","fromSide":"bottom","toNode":"bd0768ca8e2d2168","toSide":"top"},
-		{"id":"e9d238926172c663","fromNode":"bd0768ca8e2d2168","fromSide":"right","toNode":"fa581711b90e7e86","toSide":"left"},
-		{"id":"e3b15550b5ee8735","fromNode":"fa581711b90e7e86","fromSide":"right","toNode":"4b9bd90c54c539f8","toSide":"left"}
+		{"id":"2dff6d0082bec028","fromNode":"bd0768ca8e2d2168","fromSide":"right","toNode":"1b4b8dbeb9c1e711","toSide":"left","label":"@vue/runtime-core"},
+		{"id":"78de37f431330457","fromNode":"1b4b8dbeb9c1e711","fromSide":"right","toNode":"b5ba8949d37c0066","toSide":"left","label":"@vue/reactivity"}
 	]
 }
